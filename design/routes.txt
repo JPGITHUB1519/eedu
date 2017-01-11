@@ -1,0 +1,16 @@
+Users
+
+/login
+/signup
+/users/profile
+/users/id/dashboard
+
+
+/
+/home
+/programs
+/catalog
+/programs/idprogram
+/courses/idcourse
+/classroom
+/classroom/courses/lessons
