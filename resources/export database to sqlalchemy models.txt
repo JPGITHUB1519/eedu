@@ -1,0 +1,13 @@
+http://stackoverflow.com/questions/27361454/creating-pyramid-sqlalchemy-models-from-mysql-database
+https://pypi.python.org/pypi/sqlacodegen#downloads
+
+mysql db connector
+https://sourceforge.net/projects/mysql-python/
+
+example
+
+sqlacodegen mysql://root:root@localhost/mydb
+
+to use flask sqlalchemy features
+
+http://stackoverflow.com/questions/23766682/loading-flask-models-from-postgres
