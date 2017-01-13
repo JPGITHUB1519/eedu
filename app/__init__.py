@@ -7,7 +7,7 @@ app.config.from_object('config')
 db = SQLAlchemy(app)
 # creating dbhelper
 dbh = SQL(db.engine)
-from.views import main, security
+from .views import main, security
 from app import models
 # registering blueprint
 app.register_blueprint(main.mainbp)
